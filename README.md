@@ -180,15 +180,7 @@ A modular AI-powered voice assistant combining **speech transcription, LLM-based
 
 `DBMS` • `Data Structures & Algorithms` • `Machine Learning` • `Statistics` • `Data Analytics` • `Operating Systems`
 
----
 
-## 🏆 Activities & Interests
-
-### Google Developer Student Club
-
-- Organized technical events.
-- Supported event logistics.
-- Assisted with technical workshop setup.
 
 ### Technical Interests
 
